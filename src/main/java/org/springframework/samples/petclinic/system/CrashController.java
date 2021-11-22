@@ -31,8 +31,7 @@ class CrashController {
 	@GetMapping("/oups/bäm")
 	public String triggerExceptionYear() {
 		throw new RuntimeException(
-			"Expected: controller used to showcase what " + "happens when an exception is thrown");
-		// bla test
+			"");
 	}
 
 }
