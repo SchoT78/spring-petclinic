@@ -20,7 +20,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * PetClinic Spring Boot Application.
+ * PetClinic Spring Boot Application. Ganz toll.
  *
  * @author Dave Syer
  */
