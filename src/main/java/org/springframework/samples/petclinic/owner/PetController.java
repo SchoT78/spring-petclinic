@@ -112,4 +112,6 @@ class PetController {
 		}
 	}
 
+	public void doWatAnderes(){}
+
 }
