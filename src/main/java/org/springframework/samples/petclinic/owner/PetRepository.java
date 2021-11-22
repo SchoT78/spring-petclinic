@@ -49,4 +49,9 @@ public interface PetRepository extends Repository<Pet, Integer> {
 	 */
 	@Transactional(readOnly = true)
 	Pet findById(Integer id);
+
+	/**
+	 * Geändert
+	 */
+	void save(Pet pet);
 }

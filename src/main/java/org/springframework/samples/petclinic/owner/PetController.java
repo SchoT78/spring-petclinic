@@ -116,4 +116,6 @@ class PetController {
 		System.out.println("Hi there");
 	}
 
+	public void doWatAnderes(){}
+
 }
