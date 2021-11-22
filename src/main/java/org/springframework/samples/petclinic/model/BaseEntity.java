@@ -47,4 +47,7 @@ public class BaseEntity implements Serializable {
 		return this.id == null;
 	}
 
+	private class JustATest {
+		private String abc = "abc";
+	}
 }
